@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/digifort/testrepo#readme",
   "dependencies": {
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "uniq": "^1.0.1"
   }
 }
